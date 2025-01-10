@@ -1,0 +1,74 @@
+[33mcommit e9565f73994edcfd730cae2f434d935e81d2dea7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 82e2da3 620c15c
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 20:48:51 2025 +0530
+
+    Merge branch 'englishPlayList'
+
+[33mcommit 620c15cfe054d12e3edb0c406cf35a474bcc7860[m[33m ([m[1;32menglishPlayList[m[33m)[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 20:47:51 2025 +0530
+
+    nothing added
+
+[33mcommit 82e2da39b85079085ca153c9364aae9c9adf0414[m
+Merge: 79ea8e8 9fb0462
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 20:38:14 2025 +0530
+
+    telugu,hindi added to master
+
+[33mcommit 79ea8e8df97282799d5234e4270ccc32ba948f52[m
+Merge: 04f8b33 6934e92
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 19:55:03 2025 +0530
+
+    Merge branch 'hindiPlayList'
+
+[33mcommit 6934e92eb30b4ab4e8497b0da26a13b7e684e0cd[m[33m ([m[1;32mhindiplayList[m[33m)[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 16:13:22 2025 +0530
+
+    1 shreya goshal song added
+
+[33mcommit cac7d11ac8d08905f4b5965d3610cc2eb00a59eb[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 14:35:06 2025 +0530
+
+    2 justin bieber, 2 alen walker songs are added
+
+[33mcommit 04f8b33c7868cbcd53de3594cf44af2c6a4377bb[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 14:33:48 2025 +0530
+
+    nothing added
+
+[33mcommit 2e1515691ffdc745f30fe4bdb15f00dcdbad08b4[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 14:31:52 2025 +0530
+
+    nothing added
+
+[33mcommit 7ef2c0be4681ff693e4c67c3aab09d38d62cd7cc[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 14:31:12 2025 +0530
+
+    2 justin bieber, 2 alan walker songs are added
+
+[33mcommit 699e89c11409613bd216dbbc24c25e10f930dd39[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 14:24:13 2025 +0530
+
+    3 atif aslam , 2 arjit singh songs are added
+
+[33mcommit 9fb0462f4318be5e3af5776b6364029d8e992377[m[33m ([m[1;32mteluguPlayList[m[33m)[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 14:19:29 2025 +0530
+
+    three udit narayan songs added
+
+[33mcommit 6f0e8f262cf7a970ffe9de1ee14f02d7509f90cc[m
+Author: sohan <sohanprasad2003@gmail.com>
+Date:   Wed Jan 8 14:14:23 2025 +0530
+
+    empty playList Created
